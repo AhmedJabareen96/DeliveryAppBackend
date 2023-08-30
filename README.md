@@ -1,4 +1,5 @@
 **⚠️ Important Note: ⚠️**
+
  **In order for the server to function correctly, it requires the `.env` file.**
    
  **The `.env` file is included in the zip submission package.**
