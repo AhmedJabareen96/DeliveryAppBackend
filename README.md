@@ -1,4 +1,4 @@
-**⚠️ Important Note: ⚠️**
+**⚠️ Important Note ⚠️**
 
  **In order for the server to function correctly, it requires the `.env` file.**
    
