@@ -1,3 +1,7 @@
+# Important note:
+# In order for server to function correctly, it needs the .env file.
+# It is found in the zip file of the submission
+
 # Project Progress Log
 
 ## June 1 - 10:
