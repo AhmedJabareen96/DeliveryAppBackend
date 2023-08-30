@@ -1,6 +1,10 @@
-# Important note:
-# In order for server to function correctly, it needs the .env file.
-# It is found in the zip file of the submission
+**Important Note:**
+⚠️ **In order for the server to function correctly, it requires the `.env` file.**
+   
+📎 **Please ensure you have the `.env` file from the zip submission package.**
+
+**Note:** The `.env` file contains essential configuration settings for the server's proper operation.
+
 
 # Project Progress Log
 
