@@ -1,7 +1,7 @@
 **Important Note:**
 ⚠️ **In order for the server to function correctly, it requires the `.env` file.**
    
-📎 **Please ensure you have the `.env` file from the zip submission package.**
+📎 **The `.env` file is included in the zip submission package.**
 
 **Note:** The `.env` file contains essential configuration settings for the server's proper operation.
 
