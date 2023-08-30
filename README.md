@@ -4,7 +4,7 @@
    
  **The `.env` file is included in the zip submission package.**
 
-**Note:** The `.env` file contains essential configuration settings for the server's proper operation.
+ **The `.env` file contains essential configuration settings for the server's proper operation.**
 
 
 # Project Progress Log
